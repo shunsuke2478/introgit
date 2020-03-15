@@ -2,3 +2,4 @@
 練習②
 
 git addf
+git status
